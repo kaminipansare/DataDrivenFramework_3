@@ -1,0 +1,27 @@
+[INFO ] 2022-11-26 18:01:36.190 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-11-26 18:02:06.219 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:02:06.237 [main] TestNGRunner - test has been started
+[ERROR] 2022-11-26 18:02:06.289 [main] TestNGRunner - test has been skiped
+[DEBUG] 2022-11-26 18:02:19.923 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:02:19.925 [main] TestNGRunner - test has been started
+[WARN ] 2022-11-26 18:02:44.750 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-11-26 18:03:01.762 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:03:01.765 [main] TestNGRunner - test has been started
+[ERROR] 2022-11-26 18:03:01.766 [main] TestNGRunner - test has been skiped
+[INFO ] 2022-11-26 18:09:16.868 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-11-26 18:09:41.206 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:09:41.212 [main] TestNGRunner - test has been started
+[ERROR] 2022-11-26 18:09:41.224 [main] TestNGRunner - test has been skiped
+[DEBUG] 2022-11-26 18:09:55.132 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:09:55.134 [main] TestNGRunner - test has been started
+[WARN ] 2022-11-26 18:10:19.945 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-11-26 18:10:43.064 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-11-26 18:10:43.066 [main] TestNGRunner - test has been started
+[WARN ] 2022-11-26 18:11:06.196 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-17 16:50:14.251 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-17 16:50:48.081 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 16:50:48.091 [main] TestNGRunner - test has been started
+[ERROR] 2022-12-17 16:50:48.112 [main] TestNGRunner - test has been skiped
+[DEBUG] 2022-12-17 16:51:09.469 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-17 16:51:09.473 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-17 16:51:34.634 [main] TestNGRunner - soft assertion failured observed
