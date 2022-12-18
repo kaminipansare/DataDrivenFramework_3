@@ -92,7 +92,7 @@ public class TestNGRunner extends CommonMethods {
 	public void afterTest()
 	{
 		report.flush();
-		
+		System.out.println("Execution completed");
 	}
 	
 }
