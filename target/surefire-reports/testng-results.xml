@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="0" failed="2" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-17T17:26:41 IST" name="Suite" finished-at="2022-12-17T17:28:59 IST" duration-ms="138242">
+  <suite started-at="2022-12-24T16:08:51 IST" name="Suite" finished-at="2022-12-24T16:10:50 IST" duration-ms="118959">
     <groups>
     </groups>
-    <test started-at="2022-12-17T17:26:41 IST" name="Test" finished-at="2022-12-17T17:28:59 IST" duration-ms="138242">
+    <test started-at="2022-12-24T16:08:51 IST" name="Test" finished-at="2022-12-24T16:10:50 IST" duration-ms="118959">
       <class name="com.edusoln.runner.TestNGRunner">
-        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:26:41 IST" name="beforeTest" finished-at="2022-12-17T17:26:42 IST" duration-ms="1025" status="PASS">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:08:51 IST" name="beforeTest" finished-at="2022-12-24T16:08:52 IST" duration-ms="646" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:26:45 IST" name="browserSetUp" finished-at="2022-12-17T17:27:24 IST" duration-ms="39283" status="PASS">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:08:53 IST" name="browserSetUp" finished-at="2022-12-24T16:09:16 IST" duration-ms="22881" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserSetUp -->
-        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:27:24 IST" name="testcase" data-provider="dp" finished-at="2022-12-17T17:27:24 IST" duration-ms="109" status="SKIP">
+        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:09:16 IST" name="testcase" data-provider="dp" finished-at="2022-12-24T16:09:16 IST" duration-ms="32" status="SKIP">
           <params>
             <param index="0">
               <value>
@@ -68,15 +68,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:27:24 IST" name="tearDown" finished-at="2022-12-17T17:27:26 IST" duration-ms="1365" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:09:16 IST" name="tearDown" finished-at="2022-12-24T16:09:17 IST" duration-ms="756" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:27:26 IST" name="browserSetUp" finished-at="2022-12-17T17:27:42 IST" duration-ms="16067" status="PASS">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:09:17 IST" name="browserSetUp" finished-at="2022-12-24T16:09:35 IST" duration-ms="18506" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserSetUp -->
-        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:27:42 IST" name="testcase" data-provider="dp" finished-at="2022-12-17T17:28:08 IST" duration-ms="25714" status="FAIL">
+        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:09:35 IST" name="testcase" data-provider="dp" finished-at="2022-12-24T16:10:02 IST" duration-ms="26992" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -135,15 +135,15 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:28:08 IST" name="tearDown" finished-at="2022-12-17T17:28:09 IST" duration-ms="925" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:10:03 IST" name="tearDown" finished-at="2022-12-24T16:10:04 IST" duration-ms="1584" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:28:09 IST" name="browserSetUp" finished-at="2022-12-17T17:28:33 IST" duration-ms="23847" status="PASS">
+        <test-method is-config="true" signature="browserSetUp()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:10:04 IST" name="browserSetUp" finished-at="2022-12-24T16:10:27 IST" duration-ms="23042" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserSetUp -->
-        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:28:33 IST" name="testcase" data-provider="dp" finished-at="2022-12-17T17:28:56 IST" duration-ms="22910" status="FAIL">
+        <test-method signature="testcase(java.util.Map)[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:10:27 IST" name="testcase" data-provider="dp" finished-at="2022-12-24T16:10:48 IST" duration-ms="20280" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -151,19 +151,17 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
               </value>
             </param>
           </params>
-          <exception class="java.lang.AssertionError">
+          <exception class="org.openqa.selenium.TimeoutException">
             <message>
-              <![CDATA[The following asserts failed:
-expected [true] but found [false],
-expected [Persona details] but found [Personal Details]]]>
+              <![CDATA[Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.name: username' (tried for 10 second(s) with 500 milliseconds interval)]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: The following asserts failed:
-expected [true] but found [false],
-expected [Persona details] but found [Personal Details]
-at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
-at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
-at com.edusoln.runner.TestNGRunner.testcase(TestNGRunner.java:73)
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.name: username' (tried for 10 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:87)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:231)
+at com.edusoln.base.CommonMethods.waitForClick(CommonMethods.java:58)
+at com.edusoln.pom.LoginPage.orangeHRMLogin(LoginPage.java:38)
+at com.edusoln.runner.TestNGRunner.testcase(TestNGRunner.java:69)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -196,17 +194,52 @@ at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter
 at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:169)
 at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:595)
 at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:581)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"*[name='username']"}
+  (Session info: chrome=108.0.5359.125)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'LAPTOP-TVBACTPP', ip: '192.168.43.203', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [176bded7b93cb196daf58d1999ac0aec, findElement {using=name, value=username}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.125, chrome: {chromedriverVersion: 108.0.5359.71 (1e0e3868ee06..., userDataDir: C:\Users\KAMINI~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57839}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57839/devtoo..., se:cdpVersion: 108.0.5359.125, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 176bded7b93cb196daf58d1999ac0aec
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:66)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at com.sun.proxy.$Proxy32.isDisplayed(Unknown Source)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:307)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:40)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:293)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:290)
+at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:660)
+at org.openqa.selenium.support.ui.ExpectedConditions$23.apply(ExpectedConditions.java:656)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:208)
+... 35 more
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.AssertionError -->
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testcase -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:28:56 IST" name="tearDown" finished-at="2022-12-17T17:28:57 IST" duration-ms="900" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:10:48 IST" name="tearDown" finished-at="2022-12-24T16:10:49 IST" duration-ms="899" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-17T17:28:57 IST" name="afterTest" finished-at="2022-12-17T17:28:59 IST" duration-ms="2592" status="PASS">
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.edusoln.runner.TestNGRunner@2f058b8a]" started-at="2022-12-24T16:10:49 IST" name="afterTest" finished-at="2022-12-24T16:10:50 IST" duration-ms="693" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->

@@ -1,0 +1,26 @@
+[DEBUG] 2022-12-24 17:50:40.020 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:50:40.031 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:51:07.603 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:51:20.487 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:51:20.491 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:51:46.883 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:52:00.861 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:52:00.864 [main] TestNGRunner - test has been started
+[INFO ] 2022-12-24 18:00:24.708 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 18:00:39.961 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 18:00:40.492 [main] TestNGRunner - test has been started
+[INFO ] 2022-12-24 18:02:35.213 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 18:03:02.053 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 18:03:02.063 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 18:03:24.726 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 18:03:55.825 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 18:03:55.827 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 18:04:19.512 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 18:04:47.744 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 18:04:47.747 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 18:05:09.648 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-24 18:05:42.718 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 18:06:15.600 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 18:06:15.607 [main] TestNGRunner - test has been started
+[INFO ] 2022-12-24 18:08:48.478 [main] TestNGRunner - Execution has started
+[INFO ] 2022-12-24 18:10:08.440 [main] TestNGRunner - Execution has started

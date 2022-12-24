@@ -1,0 +1,26 @@
+[INFO ] 2022-12-24 17:14:59.728 [main] TestNGRunner - test has been started
+[ERROR] 2022-12-24 17:14:59.745 [main] TestNGRunner - test has been skiped
+[INFO ] 2022-12-24 17:15:45.149 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 17:16:00.498 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:16:00.505 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:16:07.208 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:16:28.410 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:16:28.411 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:16:55.158 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:17:11.545 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:17:11.547 [main] TestNGRunner - test has been started
+[ERROR] 2022-12-24 17:17:11.548 [main] TestNGRunner - test has been skiped
+[INFO ] 2022-12-24 17:22:00.986 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 17:22:19.104 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:22:19.112 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:22:26.609 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:22:44.545 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:22:44.546 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:23:13.257 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:23:32.029 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:23:32.030 [main] TestNGRunner - test has been started
+[ERROR] 2022-12-24 17:23:32.030 [main] TestNGRunner - test has been skiped
+[INFO ] 2022-12-24 17:30:20.949 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 17:30:43.637 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:30:43.644 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:30:48.444 [main] TestNGRunner - soft assertion failured observed

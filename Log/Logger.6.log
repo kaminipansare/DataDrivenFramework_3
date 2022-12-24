@@ -1,0 +1,26 @@
+[DEBUG] 2022-12-24 17:31:08.175 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:31:08.187 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:31:33.496 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:31:46.480 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:31:46.482 [main] TestNGRunner - test has been started
+[ERROR] 2022-12-24 17:31:46.483 [main] TestNGRunner - test has been skiped
+[INFO ] 2022-12-24 17:37:44.483 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 17:38:18.710 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:38:18.717 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:38:46.746 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:39:13.791 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:39:13.792 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:39:41.920 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:40:08.203 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:40:08.206 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:40:34.873 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-24 17:47:06.214 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 17:47:20.810 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:47:20.818 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:47:46.095 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:48:04.933 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:48:04.934 [main] TestNGRunner - test has been started
+[DEBUG] 2022-12-24 17:48:41.773 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:48:41.774 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:49:09.406 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-24 17:50:03.563 [main] TestNGRunner - Execution has started

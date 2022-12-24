@@ -41,7 +41,7 @@ public class LoginPage extends CommonMethods {
 		test.log(Status.INFO, "User ID and Password has been enetered");
 		login_btn.click();	
 		//Assert.assertTrue(orangeHRM_logo.isDisplayed());
-		softassert.assertTrue(!orangeHRM_logo.isDisplayed());
+		softassert.assertTrue(orangeHRM_logo.isDisplayed());
 		waitForDisplay(profilepic);
 		hardwait(1000);
 		test.log(Status.INFO, "Login is Sucesfull");			

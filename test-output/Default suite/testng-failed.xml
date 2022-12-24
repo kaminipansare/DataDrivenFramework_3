@@ -8,7 +8,7 @@
           <include name="afterTest"/>
           <include name="beforeTest"/>
           <include name="tearDown"/>
-          <include name="testcase" invocation-numbers="0 1 2"/>
+          <include name="testcase" invocation-numbers="0"/>
           <include name="browserSetUp"/>
         </methods>
       </class> <!-- com.edusoln.runner.TestNGRunner -->

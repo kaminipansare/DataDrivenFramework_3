@@ -1,0 +1,26 @@
+[WARN ] 2022-12-24 16:08:30.551 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-24 16:08:52.249 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 16:09:16.635 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 16:09:16.639 [main] TestNGRunner - test has been started
+[ERROR] 2022-12-24 16:09:16.667 [main] TestNGRunner - test has been skiped
+[DEBUG] 2022-12-24 16:09:35.934 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 16:09:35.935 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 16:10:02.927 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 16:10:27.989 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 16:10:27.990 [main] TestNGRunner - test has been started
+[INFO ] 2022-12-24 16:48:57.517 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 16:49:21.228 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 16:49:21.238 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 16:49:49.154 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 16:50:05.332 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 16:50:05.334 [main] TestNGRunner - test has been started
+[DEBUG] 2022-12-24 16:50:34.855 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 16:50:34.857 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 16:51:00.435 [main] TestNGRunner - soft assertion failured observed
+[INFO ] 2022-12-24 17:13:36.567 [main] TestNGRunner - Execution has started
+[DEBUG] 2022-12-24 17:13:58.278 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:13:58.292 [main] TestNGRunner - test has been started
+[WARN ] 2022-12-24 17:14:07.578 [main] TestNGRunner - soft assertion failured observed
+[DEBUG] 2022-12-24 17:14:27.429 [main] TestNGRunner - chromehas been launched
+[INFO ] 2022-12-24 17:14:27.431 [main] TestNGRunner - test has been started
+[DEBUG] 2022-12-24 17:14:59.727 [main] TestNGRunner - chromehas been launched

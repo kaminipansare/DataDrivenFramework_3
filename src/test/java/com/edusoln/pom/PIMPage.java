@@ -55,6 +55,7 @@ public class PIMPage extends CommonMethods{
 		middlename.sendKeys(stringValue(data, "MiddleName"));
 		lastname.sendKeys(stringValue(data, "LastName"));	
 		emp_id.get(1).clear();
+		
 		emp_id.get(1).sendKeys(stringValue(data, "EmpiID"));			
 		waitForClick(pic_upload);
 		pic_upload.click();
@@ -80,8 +81,9 @@ public class PIMPage extends CommonMethods{
 			test.log(Status.INFO, "Profile pic has been uploaded");
 		submit_btn.click();
 		waitForDisplay(employe_title);
+		
 		//Assert.assertTrue(employe_title.getText().equalsIgnoreCase("Personal details"));		
-		softassert.assertEquals(employe_title.getText(), "Persona details");
+		softassert.assertEquals(employe_title.getText(), "Personal Details");
 		System.out.println("ran after soft assertion");
 		test.log(Status.PASS, "Employee has been added sucesfully");
 		

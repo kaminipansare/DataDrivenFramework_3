@@ -79,11 +79,13 @@ public class TestNGRunner extends CommonMethods {
 			throw new SkipException("Test case is not run ");
 			
 		}
+
 	
 }
 	
 	@AfterMethod
 	public void tearDown() {
+		hardwait(2000);
 		driver.quit();
 	
 	}
